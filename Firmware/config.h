@@ -1,0 +1,19 @@
+// Copyright 2023 QMK
+// SPDX-License-Identifier: GPL-2.0-or-later
+
+#define ENCODER_A_PINS  { GP2 }
+#define ENCODER_B_PINS { GP1 }
+#define ENCODER_RESOLUTION 4
+
+#define WS2812_DI_PIN GP0
+#define RGBLIGHT_LED_COUNT 2
+
+#define I2C_DRIVER I2CD1
+#define I2C1_SDA_PIN GP6
+#define I2C1_SCL_PIN GP7
+
+#define KEY_1 KC_MEDIA_PLAY_PAUSE
+#define KEY_2 KC_MEDIA_NEXT_TRACK
+#define KEY_3 KC_SYSTEM_SLEEP
+#define KEY_4 KC_WWW_SEARCH
+#define KEY_5 KC_AUDIO_MUTE
