@@ -3,7 +3,7 @@
 ![pretpad](https://imgur.com/gallery/pretpad-keyboard-layout-nr0SThe)
 
 A macropad for personal use.
-Keys opens browser, puts laptop to sleep, pause/play song, and skips song on Spotify. Rotary encoder controls volume and its switch mutes all audio. OLED Screen displays the name of the current song and pause/play icon. Also, two LEDs are situated at the bottom.
+Keys skip song, pause/play, puts laptop to sleep, and opens browser. Rotary encoder controls volume and its switch mutes all audio. OLED Screen displays the name of the current song and pause/play icon. Also, two LEDs are situated at the bottom.
 
 * Keyboard Maintainer: [Presley](https://github.com/Pretlei)
 * Hardware Supported: Seeed XIAO RP2040 Microcontroller PCB
