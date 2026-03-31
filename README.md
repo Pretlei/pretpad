@@ -26,3 +26,5 @@ Uses QMK firmware! Purpose of each part is outlined in the initial description. 
 ## Pictures of Work In Progress:
 ![WhatsApp Image 2025-09-19 at 12 29 16_12fb8a08](https://github.com/user-attachments/assets/0bb2eb42-e9ee-4250-8b12-c1551c8dc7bb)
 
+Project was left unfinished due to medical reasons.
+
